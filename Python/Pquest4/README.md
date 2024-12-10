@@ -2,7 +2,6 @@
 - 코더 : 이은솔
 - 리뷰어 : 양건우
 
-
 # PRT(Peer Review Template)
 - [X]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
        <img width="260" alt="스크린샷 2024-12-10 오후 12 45 33" src="https://github.com/user-attachments/assets/b40722f8-224f-49ab-9db4-4396078e42ca">
