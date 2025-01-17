@@ -6,8 +6,7 @@
 # PRT(Peer Review Template)
 - [x]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**  
    실행 결과를 아래 같이 확인할 수 있었습니다.
-    ![Image](https://github.com/snow-white2024/AIFFEL_-Eunsollee/blob/master/Flutter/Fquest1/1%E1%84%87%E1%85%A5%E1%86%AB%20%E1%84%89%E1%85%B3%E1%84%89%E1%85%A3%E1%86%BA.png?raw=true)
-
+    ![Image](https://github.com/snow-white2024/AIFFEL_EunsolleE/blob/master/Flutter/Fquest1/1%E1%84%87%E1%85%A5%E1%86%AB%20%E1%84%89%E1%85%B3%E1%84%89%E1%85%A3%E1%86%BA.png)
 - [x]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**  
     핵심 과정에 주석이 달려 있어서, 코드이해가 수월했습니다.
