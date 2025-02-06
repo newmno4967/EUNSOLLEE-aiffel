@@ -137,8 +137,8 @@ class _JellyfishClassifierScreenState extends State<JellyfishClassifierScreen> {
   }
 }
 
-````
+```
   <회고>
   server_fastapi_vgg16.py 파일에서 모듈을 임포트하고, 모듈의 함수를 통해 API로 결과를 전달하는 부분까지 확인하였습니다. (VNC에서 진행)
   하지만 Flutlab을 사용하여 애플리케이션을 구현하는 과정에서 어려움이 있었습니다. 다트 파일을 다시 검토하여 문제의 원인을 파악해볼 예정입니다.
-  ```
+```
